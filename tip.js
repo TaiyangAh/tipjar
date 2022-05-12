@@ -31,7 +31,7 @@ const send = async (amount) => {
       params: [
         {
           from: accounts[0],
-          to: "0x995b76a43510c3592Fd2d7A23A6cF697B548BCA4",
+          to: "0x853bFDF175EEdcA95a013e4A6091c9b7b68f055E",
           value: web3.utils.toHex(wei),
         },
       ],
